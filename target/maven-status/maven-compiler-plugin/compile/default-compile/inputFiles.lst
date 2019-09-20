@@ -1,0 +1,10 @@
+/Users/mac/Projects/spring-boot/spring-boot-todo/src/main/java/com/telixia/springboot/todomanagement/service/TodoService.java
+/Users/mac/Projects/spring-boot/spring-boot-todo/src/main/java/com/telixia/springboot/todomanagement/controller/TodoController.java
+/Users/mac/Projects/spring-boot/spring-boot-todo/src/main/java/com/telixia/springboot/todomanagement/TodoManagementApplication.java
+/Users/mac/Projects/spring-boot/spring-boot-todo/src/main/java/com/telixia/springboot/todomanagement/model/Todo.java
+/Users/mac/Projects/spring-boot/spring-boot-todo/src/main/java/com/telixia/springboot/todomanagement/repository/TodoRepository.java
+/Users/mac/Projects/spring-boot/spring-boot-todo/src/main/java/com/telixia/springboot/todomanagement/controller/WelcomeController.java
+/Users/mac/Projects/spring-boot/spring-boot-todo/src/main/java/com/telixia/springboot/todomanagement/service/ITodoService.java
+/Users/mac/Projects/spring-boot/spring-boot-todo/src/main/java/com/telixia/springboot/todomanagement/security/SecurityConfiguration.java
+/Users/mac/Projects/spring-boot/spring-boot-todo/src/main/java/com/telixia/springboot/todomanagement/controller/ErrorController.java
+/Users/mac/Projects/spring-boot/spring-boot-todo/src/main/java/com/telixia/springboot/todomanagement/controller/LogoutController.java
